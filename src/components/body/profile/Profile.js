@@ -178,7 +178,7 @@ function Profile() {
             </div>
 
             <div className="col-right">
-                <h2>{isAdmin ? "Users" : "My Orders"}</h2>
+                <h2>{isAdmin ? "Users" : "Details"}</h2>
 
                 <div style={{overflowX: "auto"}}>
                     <table className="customers">
